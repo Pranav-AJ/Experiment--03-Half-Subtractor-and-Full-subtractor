@@ -53,7 +53,7 @@ endmodule
 HALF SUBTRACTOR
 ![](./halfsub.png)
 FULL SUBTRACTOR
-![](./fullsubout.png)
+![](./fullsub.png)
 ## Truthtable
 HALF SUBTRACTOR
 ![](./half-truth.png)
